@@ -86,32 +86,3 @@ seaborn
 ```
 
 ***
-
-### 🚀 How to Run
-
-1. Clone the repository to your local machine.
-
-   ```
-   git clone [https://github.com/kalashk/bbb-prediction.git](https://github.com/kalashk/bbb-prediction.git)
-   cd bbb-prediction
-   ```
-
-2. Clone the B3DB dataset.
-
-   ```
-   git clone [https://github.com/theochem/B3DB](https://github.com/theochem/B3DB)
-   ```
-
-3. Ensure all dependencies are installed.
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-   (Note: You may need to create a `requirements.txt` file from the list above.)
-
-4. Run the main Python script containing the analysis code.
-
-   ```
-   python your_script_name.py
-   
